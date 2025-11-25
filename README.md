@@ -1,29 +1,41 @@
-## Kamusta ka! I'm Andrea 👋 
+<h1>Kamusta ka, I'm Andrea!</h1>
 
-<!--
-**andreanadinecasti/andreanadinecasti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate and HCI researcher passionate about building things that are reliable, intuitive, and meaningful.  
+My work spans **systems programming**, **full-stack development**, **AR/VR interaction design**, and **data-driven prototypes** that support real communities.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Software Engineering & XR Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Multi-Threaded HTTP/1.0 Server (C, POSIX Threads](https://github.com/andreanadinecasti/multi-threaded-http-server)
 
-I’m a Computer Science graduate, SWE, and HCI research assistant who builds systems-level software, data-driven tools, and playful XR experiences. I love creating technology that’s impactful, intuitive, and grounded in real community needs.
+- [Saving Fin: AR Climate Resilience Game (Unity, C#, AR Foundation)](https://github.com/SET-Lab-UCSC/cccr_ar_river.git)
 
-- 🔧 Currently strengthening my **systems programming**, **backend development**, and **data engineering** skills  
-- 📊 Experienced in **Python, SQL, data cleaning, analytics, and dashboards**  
-- 🎮 I also build **AR/XR games in Unity** and research immersive tech in the UCSC SETs Lab  
-- 🤝 Open to collaborating on **full-stack apps, data tools, or AR/HCI projects**  
-- 💬 Ask me about **multi-threading, APIs, ETL pipelines, AR development, or reinforcement learning**  
-- 📫 Reach me at **andreanadine.castillo@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/andrea-nadine-castillo)  
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love river trails, logic puzzles, and making flowcharts just for fun 🧩🌿
+- Health Tracker: Nutrition & Exercise Analytics (Python, SQL, Tableau)
+
+- Slow Spaces: VR Study Tools (Unity + Research Pipelines)
+
+<h2>📊 Data & Research Projects</h2>
+
+- Qualitative UX Analysis Pipeline
+
+- Community Engagement Analytics Dashboard (Python / Excel)
+
+<h2>📄 Licenses & Certifications:</h2>
+
+- [CITI Human Subjects Research](https://www.citiprogram.org/verify/?w88d51bfb-5691-4fb9-937f-21fe2e06531f-62583662)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AndreaCastillo | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="AndreaCastillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AndreaCastillo | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="AndreaCastillo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[github]: https://github.com/andreanadinecasti
+[linkedin]: https://www.linkedin.com/in/andrea-nadine-castillo
+[email]: mailto:andreanadine.castillo@gmail.com
+[instagram]: https://www.instagram.com/andreancastillo/
+
+<br/><br/>
+
 
 
